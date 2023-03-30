@@ -9,7 +9,7 @@
 
 I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codexliner&label=Profile%20views&color=0e75b6&style=flat" alt="codexliner" /> </p>
+<p align="left"> <img src="https://www.canva.com/design/DAFesod6Z30/sDcAs9P29I_roB8z1o566w/watch?utm_content=DAFesod6Z30&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="codexliner" /> </p>
 <table>
     <tbody border="0" cellspacing="0" cellpadding="0">
         <tr  style="width:70%">
