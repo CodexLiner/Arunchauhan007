@@ -1,14 +1,7 @@
  <!-- dynamic typing effect  -->
   <div align="center">
-  
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
-
-  <!-- knock code pictures -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-
-
+   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+   </div>
 
   <!-- Snake Code Contribution Map  -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -50,7 +43,7 @@ I'm an frontend developer by specialization and am a software engineer at heart.
 </table>
 
   
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
 
 
 
@@ -61,7 +54,6 @@ I'm an frontend developer by specialization and am a software engineer at heart.
   
 ### 🏢 Work Experience
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 
   
@@ -80,15 +72,9 @@ I'm an frontend developer by specialization and am a software engineer at heart.
 
 ### 🤾‍♂️ Funny Soul
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'</a> 🌟🌟🌟🌟🌟 
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'></a> 🌟🌟🌟🌟🌟 
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'></a> 🌟🌟🌟🌟🌟
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'></a> 🌟🌟🌟🌟🌟 
-* <a href='http://movie.douban.com/subject/26647087/' target='_blank'></a> 🌟🌟🌟🌟🌟
-<!-- END_SECTION:douban -->
+
 
 </td></tr>
 
@@ -262,8 +248,7 @@ Windows                  5 hrs 41 mins       ███░░░░░░░░�
 
 <!-- Spotify 音乐 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-  &emsp;&emsp;&emsp;&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />
+
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
