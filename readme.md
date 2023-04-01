@@ -1,27 +1,25 @@
-[![MasterHead ](https://i.ibb.co/M1PV1HQ/1670136507732.gif)](meenagopal24.me)
-
 <div style="text-align: right"></div>
-  <a href="https://www.linkedin.com/in/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-   <a href="https://www.instagram.com/meenagopal24"><img align="right" src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
-  <a href="https://twitter.com/meenagopal_24"><img align="right" src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/ArunPratapSingh Chauhan"><img align="right" src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+   <a href="https://www.instagram.com/Arun_____chauhan"><img align="right" src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
+  <a href="https://twitter.com/"><img align="right" src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
 
 ## Hi 👋 I am Arun Pratap Singh Chauhan!
 
 I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 
-<p align="left"> <img src="https://www.canva.com/design/DAFesod6Z30/sDcAs9P29I_roB8z1o566w/watch?utm_content=DAFesod6Z30&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="codexliner" /> </p>
+<p align="left"> <img src=""utm_content=DAFesod6Z30&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="codexliner" /> </p>
 <table>
     <tbody border="0" cellspacing="0" cellpadding="0">
         <tr  style="width:70%">
            <td rowspan=6>
               
 ## Abstract
-I'm an android developer by specialization and am a software engineer at heart.
+I'm an frontend developer by specialization and am a software engineer at heart.
 - I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
-- I enjoy playing badminton and table tennis, and reading books. <img width="0%" align="right" alt="Github Image" src="https://t3.ftcdn.net/jpg/03/76/74/78/360_F_376747823_L8il80K6c2CM1lnPYJhhJZQNl6ynX1yj.jpg" />
+- I enjoy playing online games and standup comedy, and reading comic books. <img width="0%" align="right" alt="Github Image" src="" />
 - I regularly write articles on [cityapp.host](cityapp.host)
 - How to reach me Arunchauhannbhind7@gmail.com
-- Let's Connect [LinkedIn Profile](https://www.linkedin.com/in/meenagopal24/)
+- Let's Connect [LinkedIn Profile]()
 - Fun fact: Dr Seuss invented the word ‘nerd’.
           </td>
         </tr>
@@ -33,9 +31,9 @@ I'm an android developer by specialization and am a software engineer at heart.
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/meenagopal24/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="meenagopa24" height="30" width="40" /></a>
-<a href="https://fb.com/meenagopal24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="meenagopal24" height="30" width="40" /></a>
-<a href="https://instagram.com/meenagopal24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="meenagopal24" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="meenagopa24" height="30" width="40" /></a>
+<a href="https://fb.com/Arun chuahan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="meenagopal24" height="30" width="40" /></a>
+<a href="https://instagram.com/Arun_____chuahan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="meenagopal24" height="30" width="40" /></a>
 </p> -->
 
 ```dart
