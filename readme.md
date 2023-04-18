@@ -16,18 +16,18 @@
 <!-- About me -->
 ### 🤺 About Me
 
-## Hi 👋 I am Arun Pratap Singh Chauhan!
+# Hi 👋 I am Arun Pratap Singh Chauhan!
 
-I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 
-<p align="left"> <img src="" /> </p>
+
+<p align="left"> <img src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e470qchbb2v6d45b1nswxsax55iqsua8xojnago029u&rid=giphy.gif&ct=g" /> </p>
 <table>
     <tbody border="0" cellspacing="0" cellpadding="0">
         <tr  style="width:70%">
            <td rowspan=6>
               
 ## Abstract
-I'm an frontend developer by specialization and am a software engineer at heart.
+I'm an frontend developer> by specialization and am a software engineer at heart.
 - I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 - I enjoy playing online games and standup comedy, and reading comic books. <img width="0%" align="right" alt="Github Image" src="" />
 - I regularly write articles on [cityapp.host](cityapp.host)
@@ -37,7 +37,7 @@ I'm an frontend developer by specialization and am a software engineer at heart.
           </td>
         </tr>
         <tr>
-            <td width="56%"> <img align="center" alt="Github Image" src="https://media2.giphy.com/media/Qs5FYEsfQlclJ1FtWV/giphy.webp?cid=ecf05e4737fdct8p9aldzcu0y9adzgtcxc1o9d07weor1r2c&rid=giphy.webp&ct=s" /></td>
+            <td width="50%"> <img align="center" alt="Github Image" src="https://media2.giphy.com/media/Qs5FYEsfQlclJ1FtWV/giphy.webp?cid=ecf05e4737fdct8p9aldzcu0y9adzgtcxc1o9d07weor1r2c&rid=giphy.webp&ct=s" /></td>
         </tr>
     </tbody>
 </table>
