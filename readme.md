@@ -1,26 +1,26 @@
  <!-- dynamic typing effect  -->
   <div align="center">
-   <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="codexliner"
+   <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width= "30%" alt="codexliner"
    </div>
 
   <!-- Snake Code Contribution Map  -->
-  <img src="" />
+<!--   <img src="" /> -->
 
 </div>
 
-#  🙋 Hello
+##  🙋 Hi 👋 I am Arun Pratap Singh Chauhan!
 
 <table>
 <tr><td>
 
 <!-- About me -->
-### 🤺 About Me
+<!-- ### 🤺 About Me
 
-# Hi 👋 I am Arun Pratap Singh Chauhan!
+# Hi 👋 I am Arun Pratap Singh Chauhan! -->
 
 
 
-<p align="left"> <img src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e470qchbb2v6d45b1nswxsax55iqsua8xojnago029u&rid=giphy.gif&ct=g" /> </p>
+<p align="left"> <img  width= "30%" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e470qchbb2v6d45b1nswxsax55iqsua8xojnago029u&rid=giphy.gif&ct=g" /> </p>
 <table>
     <tbody border="0" cellspacing="0" cellpadding="0">
         <tr  style="width:70%">
@@ -37,7 +37,7 @@ I'm an frontend developer> by specialization and am a software engineer at heart
           </td>
         </tr>
         <tr>
-            <td width="50%"> <img align="center" alt="Github Image" src="https://media2.giphy.com/media/Qs5FYEsfQlclJ1FtWV/giphy.webp?cid=ecf05e4737fdct8p9aldzcu0y9adzgtcxc1o9d07weor1r2c&rid=giphy.webp&ct=s" /></td>
+            <td width="50%"> <img align="center" alt="Github Image" width= "40%" src="https://media2.giphy.com/media/Qs5FYEsfQlclJ1FtWV/giphy.webp?cid=ecf05e4737fdct8p9aldzcu0y9adzgtcxc1o9d07weor1r2c&rid=giphy.webp&ct=s" /></td>
         </tr>
     </tbody>
 </table>
@@ -48,11 +48,11 @@ I'm an frontend developer> by specialization and am a software engineer at heart
 
 
 </td></tr>
-
+<!-- 
 <tr>
 <td>
   
-### 🏢 Work Experience
+## 🏢 Work Experience
 
 
 
@@ -61,27 +61,26 @@ I'm an frontend developer> by specialization and am a software engineer at heart
 </td>
 </tr>
 
-<tr><td>
 
 
-
-
-</td></tr>
 
 <tr><td>
 
-### 🤾‍♂️ Funny Soul
+<img  src="https://media0.giphy.com/media/hTOixJPT7L1lLnRLI8/giphy.gif?cid=ecf05e47mb9x3gtsnw5vji5g1klqu25p7lm2loi6ik9qkx4f&rid=giphy.gif&ct=g" alt="Man Lifting Weights" width="300" height="300" />
+
+##
 
 
-<!-- START_SECTION:douban -->
+  
+</td></tr> -->
+</table>
 
-
-</td></tr>
-
-<tr><td>
-
-<img src="https://media0.giphy.com/media/hTOixJPT7L1lLnRLI8/giphy.gif?cid=ecf05e47mb9x3gtsnw5vji5g1klqu25p7lm2loi6ik9qkx4f&rid=giphy.gif&ct=g" alt="Man Lifting Weights" width="600" height="300" />
-
+<table>
+    <tbody border="0" cellspacing="0" cellpadding="0">
+        <tr  style="width:70%">
+           <td rowspan=6>
+              
+            
 <!-- wakatime -->
 ### 📊 WakaTime
   
@@ -121,10 +120,16 @@ Windows
 ```
 
 
- Last Updated on 01/04/2023 01:25:08 UTC
-<!--END_SECTION:waka-->
-  
-</td></tr>
+<!--  Last Updated on 01/04/2023 01:25:08 UTC -->
+<!--END_SECTION:waka-->            
+            
+Last Updated on 01/04/2023 01:25:08 UTC
+          </td>
+        </tr>
+        <tr>
+            <td width="38%"> <img align="right" alt="Github Image" src="https://i.ibb.co/4TsDWxn/me-unscreen.giff" /></td>
+        </tr>
+    </tbody>
 </table>
 
 <!-- ########################################## ########################################## -->
