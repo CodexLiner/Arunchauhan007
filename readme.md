@@ -37,7 +37,8 @@ I'm an frontend developer by specialization and am a software engineer at heart.
           </td>
         </tr>
         <tr>
-            <td width="38%"> <img align="right" alt="Github Image" src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" /></td>
+            <td width="38%"> <img align="right" alt="Github Image" src="![image](https://user-images.githubusercontent.com/129418677/232870394-488e90bc-4a51-4b12-b34c-cc59d9003130.png)
+" /></td>
         </tr>
     </tbody>
 </table>
