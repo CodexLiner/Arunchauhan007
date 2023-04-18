@@ -1,10 +1,10 @@
  <!-- dynamic typing effect  -->
   <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+   <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" alt="codexliner"
    </div>
 
   <!-- Snake Code Contribution Map  -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <img src="" />
 
 </div>
 
@@ -37,7 +37,7 @@ I'm an frontend developer by specialization and am a software engineer at heart.
           </td>
         </tr>
         <tr>
-            <td width="48%"> <img align="center" alt="Github Image" src="https://media.tenor.com/RrMQY_SfjJsAAAAM/bhagam-bhag-akshay-kumar.gif" /></td>
+            <td width="48%"> <img align="center" alt="Github Image" src="https://media2.giphy.com/media/Qs5FYEsfQlclJ1FtWV/giphy.webp?cid=ecf05e4737fdct8p9aldzcu0y9adzgtcxc1o9d07weor1r2c&rid=giphy.webp&ct=s" /></td>
         </tr>
     </tbody>
 </table>
