@@ -9,22 +9,12 @@
 </div>
 
 ##  🙋 Hi 👋 I am Arun Pratap Singh Chauhan!
-
-<table>
-<tr><td>
-
-<!-- About me -->
-<!-- ### 🤺 About Me
-
-# Hi 👋 I am Arun Pratap Singh Chauhan! -->
-
-
-
-<p align="left"> <img  width= "30%" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e470qchbb2v6d45b1nswxsax55iqsua8xojnago029u&rid=giphy.gif&ct=g" /> </p>
 <table>
     <tbody border="0" cellspacing="0" cellpadding="0">
         <tr  style="width:70%">
            <td rowspan=6>
+
+
               
 ## Abstract
 I'm an frontend developer> by specialization and am a software engineer at heart.
@@ -37,16 +27,23 @@ I'm an frontend developer> by specialization and am a software engineer at heart
           </td>
         </tr>
         <tr>
-            <td width="50%"> <img align="center" alt="Github Image" width= "40%" src="https://media2.giphy.com/media/Qs5FYEsfQlclJ1FtWV/giphy.webp?cid=ecf05e4737fdct8p9aldzcu0y9adzgtcxc1o9d07weor1r2c&rid=giphy.webp&ct=s" /></td>
+            <td width="0%"> <img align="center" alt="Github Image" width= "40%" src="https://media2.giphy.com/media/Qs5FYEsfQlclJ1FtWV/giphy.webp?cid=ecf05e4737fdct8p9aldzcu0y9adzgtcxc1o9d07weor1r2c&rid=giphy.webp&ct=s" /></td>
         </tr>
     </tbody>
 </table>
+<table>
+<tr><td>
 
-  
+<!-- About me -->
+<!-- ### 🤺 About Me
+
+# Hi 👋 I am Arun Pratap Singh Chauhan! -->
 
 
 
-
+<p align="left"> <img  width= "30%" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e470qchbb2v6d45b1nswxsax55iqsua8xojnago029u&rid=giphy.gif&ct=g" /> </p>
+ 
+ 
 </td></tr>
 <!-- 
 <tr>
