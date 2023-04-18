@@ -80,6 +80,8 @@ I'm an frontend developer by specialization and am a software engineer at heart.
 
 <tr><td>
 
+<img src="https://media0.giphy.com/media/hTOixJPT7L1lLnRLI8/giphy.gif?cid=ecf05e47mb9x3gtsnw5vji5g1klqu25p7lm2loi6ik9qkx4f&rid=giphy.gif&ct=g" alt="Man Lifting Weights" width="600" height="300" />
+
 <!-- wakatime -->
 ### 📊 WakaTime
   
@@ -87,10 +89,10 @@ I'm an frontend developer by specialization and am a software engineer at heart.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                171 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-🌆 Daytime                314 commits         ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-🌃 Evening                447 commits         ██████████░░░░░░░░░░░░░░░   41.89 % 
-🌙 Night                  135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+🌞 Morning        
+🌆 Daytime             
+🌃 Evening               
+🌙 Night                
 ```
 📅 **I'm Most Productive on Friday** 
 
@@ -111,13 +113,11 @@ Sunday                   115 commits         ███░░░░░░░░�
 🕑︎ Time Zone: indore / india
 
 💬 Programming Languages: 
-JavaScript               5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-
+JavaScript              
 🔥 Editors: 
-VS Code                  36 hrs 44 mins      ██████████████████████░░░   86.60 % 
-
+VS Code                
 💻 Operating System: 
-Windows                  5 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Windows                 
 ```
 
 
