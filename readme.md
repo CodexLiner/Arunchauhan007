@@ -37,7 +37,7 @@ I'm an frontend developer by specialization and am a software engineer at heart.
           </td>
         </tr>
         <tr>
-            <td width="48%"> <img align="center" alt="Github Image" src="https://media2.giphy.com/media/Qs5FYEsfQlclJ1FtWV/giphy.webp?cid=ecf05e4737fdct8p9aldzcu0y9adzgtcxc1o9d07weor1r2c&rid=giphy.webp&ct=s" /></td>
+            <td width="50%"> <img align="center" alt="Github Image" src="https://media2.giphy.com/media/Qs5FYEsfQlclJ1FtWV/giphy.webp?cid=ecf05e4737fdct8p9aldzcu0y9adzgtcxc1o9d07weor1r2c&rid=giphy.webp&ct=s" /></td>
         </tr>
     </tbody>
 </table>
