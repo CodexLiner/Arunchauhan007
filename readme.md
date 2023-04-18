@@ -37,7 +37,7 @@ I'm an frontend developer by specialization and am a software engineer at heart.
           </td>
         </tr>
         <tr>
-            <td width="38%"> <img align="right" alt="Github Image" src="https://media.tenor.com/RrMQY_SfjJsAAAAM/bhagam-bhag-akshay-kumar.gif" /></td>
+            <td width="48%"> <img align="center" alt="Github Image" src="https://media.tenor.com/RrMQY_SfjJsAAAAM/bhagam-bhag-akshay-kumar.gif" /></td>
         </tr>
     </tbody>
 </table>
