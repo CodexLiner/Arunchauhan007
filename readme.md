@@ -20,7 +20,7 @@
 
 I'm a student at [Medicaps University Indore](https://www.medicaps.ac.in).
 
-<p align="left"> <img src=""utm_content=DAFesod6Z30&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="codexliner" /> </p>
+<p align="left"> <img src=""https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif"" alt="codexliner" /> </p>
 <table>
     <tbody border="0" cellspacing="0" cellpadding="0">
         <tr  style="width:70%">
